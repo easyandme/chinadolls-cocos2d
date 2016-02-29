@@ -35094,7 +35094,7 @@ var NewGuiderLayer = cc.LayerColor.extend({
             }, this);
             a.attr({
                 x: 450,
-                y: 1760,
+                y: 760,
                 anchorX: 0.5,
                 anchorY: 0.5
             });
